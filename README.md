@@ -28,6 +28,7 @@ A real-time Markdown editor and previewer built with HTML, CSS, and JavaScript.
 
 ## Screenshots
 
+![Screenshot 2025-03-28 143454](https://github.com/user-attachments/assets/b2b1aeb5-69f3-4fd5-ba2e-a08ddf0a3ad4)
 
 ## Supported Markdown Features
 
